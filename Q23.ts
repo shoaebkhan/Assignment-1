@@ -1,0 +1,15 @@
+let car = 'subaru';
+let age = 30;
+let bird ="Parrot";
+let gpa = 3.5;
+let course = "Metaverse";
+console.log("Is car == 'subaru'? I predict True.",car == 'subaru');
+console.log("Is car != 'subaru'? I predict True.",car != 'subaru');
+console.log("I'm under 25:", age<25);
+console.log("I'm above 25:", age>25);
+console.log("Is bird == 'pigeon'? I predict True.",bird == 'pigeon');
+console.log("Is bird != 'pigeon'? I predict True.",bird != 'pigeon');
+console.log("Is gpa less than 3? I predict True.", gpa<3);
+console.log("Is gpa more than 3? I predict True.", gpa>3);
+console.log("Is my course == 'Metaverse'? I predict True.", course=="Metaverse");
+console.log("Is my course != 'Metaverse'? I predict True.", course!="Metaverse");
